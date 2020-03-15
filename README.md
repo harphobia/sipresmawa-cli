@@ -12,7 +12,7 @@ Sipresmawa Umsida CLI
 
 # Usage
 
-1. git clone https://github.com/harphobia/Sipresmawa-Api.git
+1. git clone https://github.com/harphobia/Sipresmawa-CLI.git
 2. cd Sipresmawa-Api
 3. npm install
 4. npm run start
